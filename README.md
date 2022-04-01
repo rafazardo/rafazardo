@@ -20,7 +20,8 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 <img align="center" alt="RafaelWordPress" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
 <img align="center" alt="RafaelGit" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
 <img align="center" alt="RafaelLinux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">  
-<img align="center" alt="RafaelLinux" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">  
+
+  
 ## Social:
 
 <a href="https://www.linkedin.com/in/rafaelzardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
