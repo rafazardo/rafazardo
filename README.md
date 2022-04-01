@@ -15,7 +15,8 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 <img align="center" alt="RafaelCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="RafaelJavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
 <img align="center" alt="RafaelC++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
- 
+ <img align="center" alt="RafaelMySql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  
 ## Social:
 
 <a href="https://www.linkedin.com/in/rafaelzardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
