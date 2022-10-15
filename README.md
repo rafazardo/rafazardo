@@ -18,7 +18,6 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 <img align="left" alt="RafaelC++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" alt="RafaelPHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 <img align="left" alt="RafaelMySql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-<img align="left" alt="RafaelWordPress" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
 </div>
   
 <br>
