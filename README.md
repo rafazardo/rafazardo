@@ -1,3 +1,5 @@
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff11a4&height=120&section=header"/>
+ 
 ## Hello World! I'm Rafael Zardo 👨🏻‍💻
 
 My first contact with the source was reading the book Algorithms: Logic for Computer Programming Development, and, through an activity proposed by the book about searching within variables, I realized how much it would make it possible to create things that would make my life easier and people's life. From now on, we must develop and look for ways to evolve my ability in the work area to carry out personal and business ideas, in order to be able to directly impact different users and deliver products with quality and sophistication. I believe that through the contribution I will carry out innovation activities and related changes in society.
@@ -28,3 +30,5 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 </div>
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+
