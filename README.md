@@ -5,7 +5,7 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 
 ## Status and Tools:
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafazardo">
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=rafazardo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 </div>
