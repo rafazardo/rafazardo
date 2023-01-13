@@ -7,7 +7,7 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 
 <div align="left">
   <a href="https://github.com/rafazardo">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=rafazardo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api?username=rafazardo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
 </div>
 
 <div align="left">
@@ -19,7 +19,6 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 <img align="left" alt="RafaelMySql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
-<br>
 <br>
   
 ## Social:
