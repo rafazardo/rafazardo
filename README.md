@@ -20,7 +20,8 @@ My first contact with the source was reading the book Algorithms: Logic for Comp
 </div>
   
 <br>
-
+<br>
+  
 ## Social:
 <div align="left">
 <a href="https://www.linkedin.com/in/rafaelzardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
