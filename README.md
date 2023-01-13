@@ -3,13 +3,7 @@
 My first contact with the source was reading the book Algorithms: Logic for Computer Programming Development, and, through an activity proposed by the book about searching within variables, I realized how much it would make it possible to create things that would make my life easier and people's life. From now on, we must develop and look for ways to evolve my ability in the work area to carry out personal and business ideas, in order to be able to directly impact different users and deliver products with quality and sophistication. I believe that through the contribution I will carry out innovation activities and related changes in society.
 
 
-## Status and Tools:
-
-<div align="left">
-  <a href="https://github.com/rafazardo">
-  <img align="left" height="180em"  src="https://github-readme-stats.vercel.app/api?username=rafazardo&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-</div>
-
+## Tools:
 <div align="left">
 <img align="left" alt="RafaelHtml5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
 <img align="left" alt="RafaelCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
