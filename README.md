@@ -2,8 +2,7 @@
 🔭 I am currently studying in Federal University of Viçosa (UFV)<br>
 🌱 I’m currently learning Java<br>
 💬 Ask me about JavaScript, Node.js, PHP and MySql<br>
-📄 Know about my experiences [this is my curriculum
-](https://drive.google.com/file/d/1f93mvGOWfZQEtfscvNCXj6KJc2RgUkj6/view?usp=sharing)<br>
+📄 Know about my experiences [this is my curriculum](https://drive.google.com/file/d/1f93mvGOWfZQEtfscvNCXj6KJc2RgUkj6/view?usp=sharing)<br>
 📫 How to reach me **rafael.zardo@outlook.com**<br>
 
 # 💻 Tech Stack:
