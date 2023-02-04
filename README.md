@@ -1,25 +1,53 @@
-## Hello World! I'm Rafael Zardo 👨🏻‍💻
+# 💫 About Me:
+🔭 I am currently studying in Federal University of Viçosa (UFV)<br>
+🌱 I’m currently learning Java<br>
+💬 Ask me about JavaScript, Node.js, PHP and MySql<br>
+📄 Know about my experiences https://drive.google.com/file/d/1f93mvGOWfZQEtfscvNCXj6KJc2RgUkj6/view?usp=sharing<br>
+📫 How to reach me **rafael.zardo@outlook.com**<br>
 
-My first contact with the source was reading the book Algorithms: Logic for Computer Programming Development, and, through an activity proposed by the book about searching within variables, I realized how much it would make it possible to create things that would make my life easier and people's life. From now on, we must develop and look for ways to evolve my ability in the work area to carry out personal and business ideas, in order to be able to directly impact different users and deliver products with quality and sophistication. I believe that through the contribution I will carry out innovation activities and related changes in society.
+# 💻 Tech Stack:
 
+## Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
-## Tools:
-<div align="left">
-<img align="left" alt="RafaelHtml5" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-<img align="left" alt="RafaelCSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-<img align="left" alt="RafaelJavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-<img align="left" alt="RafaelC++" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="RafaelPHP" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-<img align="left" alt="RafaelMySql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
-  
-<br>
-  
-## Social:
-<div align="left">
-<a href="https://www.linkedin.com/in/rafaelzardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=79fe97&height=100&section=footer"/>
+## Frontend Development
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+## Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+## Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+## Framework
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+## Other 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelzardo) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21147624) 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafazardo&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafazardo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafazardo&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+--
+
+[![](https://visitcount.itsvg.in/api?id=rafazardo&icon=1&color=11)](https://visitcount.itsvg.in)
 
