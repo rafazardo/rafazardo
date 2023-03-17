@@ -1,5 +1,6 @@
 ## 💫 About Me:
 🔭 I am currently studying in Federal University of Viçosa (UFV)<br>
+💼 I am currently working in Target Sistemas<br>
 🌱 I’m currently learning Java and Kotlin<br>
 💬 Ask me about C++, JavaScript, Node.js, PHP and MySql<br>
 📄 Know about my experiences [this is my curriculum](https://drive.google.com/file/d/1SrKrQ7SEjR_vEl6d3aJlzcnNlqL_nv9l/view?usp=sharing)<br>
