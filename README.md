@@ -1,5 +1,6 @@
 ## 💫 About Me:
 🔭 I am currently studying in Federal University of Viçosa (UFV)<br>
+💼 I am currently working in OI<br>
 🌱 I’m currently learning Java and Kotlin<br>
 💬 Ask me about C++, JavaScript, Node.js, PHP and MySql<br>
 📄 Know about my experiences [this is my curriculum](https://drive.google.com/file/d/10fdhGTMZkvY8eL4nrkoHAfmJjIrICi-D/view?usp=sharing)<br>
